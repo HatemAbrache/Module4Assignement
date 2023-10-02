@@ -14,7 +14,7 @@ Hello Paul
 Hello Frank
 Hello Larry
 Hello Paula
-Hello Laura
+Hello Hatem
 Good Bye Jim*/
 
 /*Hello speaker function*/
@@ -52,7 +52,7 @@ const byeSpeaker = {
     "Frank",
     "Larry",
     "Paula",
-    "Hatem",
+    "Laura",
     "Jim",
   ];
   for (var i = 0; i < names.length; i++) {
